@@ -15,7 +15,7 @@ This project showcases a professional Business Intelligence solution designed to
 - **DAX (Data Analysis Expressions):** Calculated measures for Total Sales, Profit, and Year-over-Year growth.
 
 ## 📈 Dashboard Preview
-![Sales Dashboard](image_748351.png)
+![Sales Dashboard](PowerBi.png)
 
 ## 💡 Key Business Insights
 - High-performing segments were identified in the European market.
