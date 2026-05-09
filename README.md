@@ -1,21 +1,30 @@
-# Global-Sales-Analytics-PowerBI
-Interactive Sales Performance Dashboard built with Power BI. Features ETL processes, DAX measures, and comprehensive data visualization for business insights.
 # 📊 Global Sales Performance Dashboard
 
-This project showcases a professional Business Intelligence solution designed to analyze sales data across multiple regions and product categories.
+An interactive Business Intelligence solution developed to analyze international sales trends, regional profitability, and product performance.
 
-## 🎯 Key Objectives
-- **Trend Analysis:** Monitoring sales and profit growth over time.
-- **Geographic Insights:** Evaluating market performance in key countries (France, Germany, Canada, etc.).
-- **Product Strategy:** Identifying top-selling products and profit margins.
+## 🖼️ Dashboard Preview
 
-## 🛠️ Tech Stack
-- **Power BI Desktop:** Dashboard design and visualization.
-- **Power Query:** Data cleaning and transformation (ETL).
-- **DAX (Data Analysis Expressions):** Calculated measures for Total Sales, Profit, and Year-over-Year growth.
+![Executive Sales Overview](image_748351.png)
+*Figure 1: Executive summary showing revenue trends, total profit, and global KPIs.*
 
-## 📈 Dashboard Preview
-![Dashboard](Proyect_Jordan Araya_Business Analytics.pdf).
+![Geographic Deep Dive](image_748333.png)
+*Figure 2: Regional analysis highlighting market distribution and segment profitability.*
 
-## 💡 Key Business Insights
-- High-performing segments were identified in the European market.
+## 🚀 Core Features
+- **Trend Analysis:** Real-time monitoring of sales and profit growth over time using area charts.
+- **Geographic Insights:** Interactive map visuals to evaluate market performance across key regions (France, Germany, Canada, etc.).
+- **Product Strategy:** Identification of top-selling products and profit margins per category.
+- **Dynamic Filtering:** Integrated slicers for Countries, Segments, and Timeframes for granular data exploration.
+
+## 🛠️ Technical Stack
+- **Power BI Desktop:** Core dashboard design and UI/UX development.
+- **Power Query:** ETL processes for data cleaning, type formatting, and transformation.
+- **DAX (Data Analysis Expressions):** Implementation of custom measures for Total Sales, Profit Margins, and Performance Metrics.
+
+## 📂 Project Documentation
+- **Full Analysis Report:** [Download Project Report (PDF)](./Proyect_Jordan%20Araya_Business%20Analytics.pdf)
+- **Power BI Source File:** [Download .pbix File](./Proyecto%20Jordan%20Araya.pbix)
+
+---
+## 🧠 Business Insights
+During this analysis, I identified key growth opportunities in the European market and optimized the data model to ensure fast, responsive interactions. This project demonstrates the ability to transform raw financial data into actionable business strategies.
