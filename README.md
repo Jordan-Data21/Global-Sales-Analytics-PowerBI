@@ -15,7 +15,7 @@ This project showcases a professional Business Intelligence solution designed to
 - **DAX (Data Analysis Expressions):** Calculated measures for Total Sales, Profit, and Year-over-Year growth.
 
 ## 📈 Dashboard Preview
-![Sales Dashboard]([PowerBi.png](https://github.com/Jordan-Data21/Global-Sales-Analytics-PowerBI/blob/ff6241a59cd83617a478da0a9bbb8dfb8c5d01de/PowerBi%20.png))
+![Dashboard](PowerBi.png).
 
 ## 💡 Key Business Insights
 - High-performing segments were identified in the European market.
