@@ -7,7 +7,7 @@ An interactive Business Intelligence solution developed to analyze international
 ![Executive Sales Overview](PowerBi.png)
 *Figure 1: Executive summary showing revenue trends, total profit, and global KPIs.*
 
-![Geographic Deep Dive](image_748333.png)
+![Geographic Deep Dive](PowerBi2.png)
 *Figure 2: Regional analysis highlighting market distribution and segment profitability.*
 
 ## 🚀 Core Features
