@@ -12,19 +12,19 @@ An interactive Business Intelligence solution developed to analyze international
 
 ## 🚀 Core Features
 - **Trend Analysis:** Real-time monitoring of sales and profit growth over time using area charts.
-- **Geographic Insights:** Interactive map visuals to evaluate market performance across key regions (France, Germany, Canada, etc.).
+- **Geographic Insights:** Interactive map visuals to evaluate market performance across key regions.
 - **Product Strategy:** Identification of top-selling products and profit margins per category.
-- **Dynamic Filtering:** Integrated slicers for Countries, Segments, and Timeframes for granular data exploration.
+- **Dynamic Filtering:** Integrated slicers for Countries, Segments, and Timeframes.
 
 ## 🛠️ Technical Stack
 - **Power BI Desktop:** Core dashboard design and UI/UX development.
-- **Power Query:** ETL processes for data cleaning, type formatting, and transformation.
-- **DAX (Data Analysis Expressions):** Implementation of custom measures for Total Sales, Profit Margins, and Performance Metrics.
+- **Power Query:** ETL processes for data cleaning and transformation.
+- **DAX (Data Analysis Expressions):** Custom measures for Total Sales and Profit Margins.
 
 ## 📂 Project Documentation
-- **Full Analysis Report:** [Download Project Report (PDF)](./Proyect_Jordan%20Araya_Business%20Analytics.pdf)
+- **Full Analysis Report:** [View Project Report (PDF)](./Proyect_Jordan%20Araya_Business%20Analytics.pdf)
 - **Power BI Source File:** [Download .pbix File](./Proyecto%20Jordan%20Araya.pbix)
 
 ---
 ## 🧠 Business Insights
-During this analysis, I identified key growth opportunities in the European market and optimized the data model to ensure fast, responsive interactions. This project demonstrates the ability to transform raw financial data into actionable business strategies.
+This project demonstrates the ability to transform raw financial data into actionable business strategies, identifying growth opportunities in international markets.
