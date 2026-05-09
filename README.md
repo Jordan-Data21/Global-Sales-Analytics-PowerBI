@@ -16,8 +16,6 @@ This project showcases a professional Business Intelligence solution designed to
 
 ## 📈 Dashboard Preview
 ![Sales Dashboard](image_748351.png)
-*(Tip: Sube la imagen del dashboard a tu repositorio y reemplaza este nombre)*
 
 ## 💡 Key Business Insights
 - High-performing segments were identified in the European market.
-- Profitability trends show a direct correlation with [menciona algo que hayas notado, ej: specific product discounts].
